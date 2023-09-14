@@ -1,0 +1,126 @@
+@font-face {
+    font-family: pixelarmy;
+    src: url(../media/fonts/PixelArmy.ttf);
+}
+
+
+
+
+.wolf-1{
+    font-family: pixelarmy;
+    background-color: aqua;    
+    display: block;    
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+    
+    body{   
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 1600px;
+    
+      background-image: url(https://e0.pxfuel.com/wallpapers/345/709/desktop-wallpaper-gaming-90-s-retro-games-retro-gaming-art-retro-classic-game-thumbnail.jpg)
+      
+    }
+    
+    
+    
+    .wolf-2{
+    padding: 10px;    
+    font-family: pixelarmy;    
+    color: white;
+    
+    }
+    
+    .wolf-3{
+    padding: 30px;
+    
+    
+    }
+    
+    .wolf-4{
+        color: white;
+    }
+    
+    .wolf-5{
+    color: white;
+    }
+    
+    .wolf-6{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    }
+    
+    .wolf-7{
+    font-family: pixelarmy;
+    color: whitesmoke;
+    
+    }
+    
+    .wolf-8{
+    border: 5px dotted red;
+    background-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    }
+    
+
+    
+    
+    audio{
+    
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    
+    }
+    
+    
+    
+    
+    nav ul li{
+        font-family: pixelarmy;
+        list-style-type: none;
+        display: inline-block;
+        padding: 10px  250px;
+    }
+    nav ul li a{
+        font-family: pixelarmy;
+        color: white;
+        text-decoration: none;
+        font-weight: bold;
+        text-transform: capitalize;
+    }
+    nav ul li a:hover{
+        font-family: pixelarmy;
+        color: black;
+        transition: .4s;
+    }
+
+      video{
+        display: block;
+
+      }  
+
+.clickme{
+    font-family: pixelarmy;
+    background-color: aqua;
+    border: none;
+    color: snow;
+    padding: 15px 32px;
+    font-size: 16px; 
+}
+
+
+
+
+.clickme:hover{
+font-family: pixelarmy;
+background-color: forestgreen;
+cursor: pointer;
+
+}

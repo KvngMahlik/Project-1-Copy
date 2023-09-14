@@ -1,0 +1,39 @@
+.clickme{
+    font-family: pixelarmy;
+    background-color: aqua;
+    border: none;
+    color: snow;
+    padding: 15px 32px;
+    font-size: 16px; 
+}
+
+
+
+
+.clickme:hover{
+font-family: pixelarmy;
+background-color: forestgreen;
+cursor: pointer;
+
+}
+
+
+body{   
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1600px;
+  
+    background-image: url(https://e0.pxfuel.com/wallpapers/345/709/desktop-wallpaper-gaming-90-s-retro-games-retro-gaming-art-retro-classic-game-thumbnail.jpg)
+    
+  }
+
+h4{
+    font-family: pixelarmy;
+    color: whitesmoke;
+}
+
+h5{
+    font-family: pixelarmy;
+    color: whitesmoke;
+}
+
